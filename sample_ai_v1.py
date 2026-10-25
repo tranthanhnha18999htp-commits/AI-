@@ -2,7 +2,7 @@
 MẪU AI ĐƠN GIẢN: TRỢ LÝ TƯ VẤN QUÁN CÀ PHÊ MỘC
 Chạy được cả trên máy tính cá nhân và online trên GitHub / Codespaces.
 """
-
+MODEL_NAME = "moc_ai"
 import os
 from google import genai
 
